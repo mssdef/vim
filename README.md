@@ -1,2 +1,2 @@
 # vim
-VIM tools
+VIM tools and environment settings
