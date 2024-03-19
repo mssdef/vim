@@ -1,6 +1,6 @@
 #!/bin/bash
 
-processes=("viber" "news" )
+processes=("news" )
 
 for process_name in "${processes[@]}"; do
     # Find the process IDs of the current process
